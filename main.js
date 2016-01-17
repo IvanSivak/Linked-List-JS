@@ -23,5 +23,5 @@ for (var i = 0; i < noElements; i++){
 }
 
 linkedTime = new Date() - t1;
+
 console.log(linkedTime, arrayTime);
-console.log(linkedList);
