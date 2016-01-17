@@ -13,8 +13,6 @@ for (var i = 0; i < noElements; i++){
 
 arrayTime = new Date() - t1;
 
-//alert(arrayTime + ', ' + data[0].name);
-
 //---------------------------
 
 t1 = new Date();
